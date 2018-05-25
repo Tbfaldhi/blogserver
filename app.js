@@ -7,7 +7,6 @@ const cors = require('cors')
 const logger = require('morgan');
 
 const indexRouter = require('./routes/index');
-const usersRouter = require('./routes/users');
 
 const app = express();
 mongoose.connect('mongodb://faldhifal:123456@ds233970.mlab.com:33970/blogdb')
