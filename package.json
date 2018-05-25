@@ -21,6 +21,6 @@
     "validate": "^4.4.1"
   },
   "script":{
-    "start": "node app.js
+    "start": "node app.js"
   }
 }
