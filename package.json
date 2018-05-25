@@ -19,5 +19,9 @@
     "mongoose-validators": "^0.1.0",
     "morgan": "~1.9.0",
     "validate": "^4.4.1"
+  },
+  "script":{
+    "start": "node app.js
   }
+  "
 }
